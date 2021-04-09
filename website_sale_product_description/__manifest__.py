@@ -11,16 +11,6 @@
     "application": False,
     "installable": True,
     "depends": ["website_sale"],
-<<<<<<< HEAD
-    "data": [
-        "views/website_sale_template.xml",
-        "views/product_template.xml",
-    ],
-    "demo": [
-        "data/demo_website_sale_product_description.xml",
-    ],
-=======
-    "data": ["views/website_sale_template.xml", "views/product_template.xml"],
-    "demo": ["data/demo_website_sale_product_description.xml"],
->>>>>>> d81284d9... [MIG] website_sale_product_description: Migration to 13.0
+    "data": ["views/website_sale_template.xml", "views/product_template.xml",],
+    "demo": ["data/demo_website_sale_product_description.xml",],
 }
