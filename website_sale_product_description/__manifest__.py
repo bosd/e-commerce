@@ -1,6 +1,7 @@
 # © 2020 Solvos Consultoría Informática (<http://www.solvos.es>)
 # License AGPL-3 - See http://www.gnu.org/licenses/agpl-3.0.html
 {
+<<<<<<< HEAD
     "name": "Website Sale Product Description",
     "category": "Website",
     "summary": "Shows custom e-Commerce description for products",
@@ -22,8 +23,11 @@
     "data": ["views/website_sale_template.xml", "views/product_template.xml"],
     "demo": ["data/demo_website_sale_product_description.xml"],
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> 3418b9b2... [MIG] website_sale_product_description: Migration to 14.0
 =======
     'name': 'Website Sale Product Description',
     'category': 'Website',
@@ -43,7 +47,10 @@
         'data/demo_website_sale_product_description.xml',
     ],
 >>>>>>> [ADD] website_sale_product_description
+<<<<<<< HEAD
 =======
 >>>>>>> d81284d9... [MIG] website_sale_product_description: Migration to 13.0
 >>>>>>> 4f48128d... [MIG] website_sale_product_description: Migration to 13.0
+=======
+>>>>>>> 3418b9b2... [MIG] website_sale_product_description: Migration to 14.0
 }

@@ -3,17 +3,26 @@
     <record id="product_template_form_view" model="ir.ui.view">
         <field name="name">product.template.form.view.inherit</field>
         <field name="model">product.template</field>
+<<<<<<< HEAD
         <field name="inherit_id" ref="product.product_template_form_view" />
+=======
+        <field name="inherit_id" ref="product.product_template_form_view"/>
+>>>>>>> [ADD] website_sale_product_description
         <field name="arch" type="xml">
             <xpath expr="//group[@name='shop']" position="after">
                 <group name="public_description">
                     <group string="Description for e-Commerce">
+<<<<<<< HEAD
                         <field
                             name="public_description"
                             nolabel="1"
                             widget="html"
                             placeholder="This description will be shown on e-commerce frontend"
                         />
+=======
+                        <field name="public_description" nolabel="1" 
+                            placeholder="This description will be shown on e-commerce frontend"/>
+>>>>>>> [ADD] website_sale_product_description
                     </group>
                 </group>
             </xpath>
