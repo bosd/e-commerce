@@ -24,10 +24,13 @@
     "demo": ["data/demo_website_sale_product_description.xml"],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 =======
 >>>>>>> 3418b9b2... [MIG] website_sale_product_description: Migration to 14.0
+=======
+>>>>>>> b4fe5305... [MIG] website_sale_product_description: Migration to 14.0
 =======
     'name': 'Website Sale Product Description',
     'category': 'Website',
@@ -48,9 +51,12 @@
     ],
 >>>>>>> [ADD] website_sale_product_description
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> d81284d9... [MIG] website_sale_product_description: Migration to 13.0
 >>>>>>> 4f48128d... [MIG] website_sale_product_description: Migration to 13.0
 =======
 >>>>>>> 3418b9b2... [MIG] website_sale_product_description: Migration to 14.0
+=======
+>>>>>>> b4fe5305... [MIG] website_sale_product_description: Migration to 14.0
 }
