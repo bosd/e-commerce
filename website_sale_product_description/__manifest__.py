@@ -6,6 +6,7 @@
     "category": "Website",
     "summary": "Shows custom e-Commerce description for products",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "version": "13.0.1.0.0",
 =======
 <<<<<<< HEAD
@@ -14,6 +15,9 @@
     "version": "13.0.1.0.0",
 >>>>>>> d81284d9... [MIG] website_sale_product_description: Migration to 13.0
 >>>>>>> 4f48128d... [MIG] website_sale_product_description: Migration to 13.0
+=======
+    "version": "14.0.1.0.0",
+>>>>>>> 61eaecd2... [MIG] website_sale_product_description: Migration to 14.0
     "website": "https://github.com/OCA/e-commerce",
     "author": "Solvos, Odoo Community Association (OCA)",
     "license": "AGPL-3",
